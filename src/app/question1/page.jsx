@@ -1,5 +1,6 @@
 import React from 'react'
 import ProjectItem from '../../../components/ProjectItem'
+import "./page.css"
 
 export default function page() {
   let projects = [
